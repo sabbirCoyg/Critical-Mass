@@ -25,13 +25,20 @@ a) Spotify Using Angular 2: The instructor Brad Traversy is very inspiring and I
 Github link- https://github.com/bradtraversy/ngspotify
 
 b) Progress of Artificial Intelligence: I have recently being very interested in artificial intelligence and it inspires me every day thinking of all the possibilities it has to change the world. I have a dream to create  a mental health related App using AI in the future that can help people going with mental health issues but are scared to come out. An anonymous way to help people in need. It is still a long way to go for me in my dream and how I want to implement the App but I have some very specific ideas that I want to implement to achieve my success. But in the mean time I continue to read blog posts and articles related to AI to inspire me and fuel my dreams.
+
 Here is an example of a blog that tells us the recent development of AI app for mental health: https://medium.com/@davidventuri/how-ai-is-revolutionizing-mental-health-care-a7cec436a1ce
 
 c) Data Mining- I am recently studying a course in my University regarding Data Mining. And I have come to see that I really enjoy this course and has inspired me to learn more of the subject. Using SQL queries and then analyzing the data in R is very fascination. I have come to know how powerful a language R is in collecting and analyzing data. The k- means Algorithm, the K-centroid to plot and then analyze data is extra ordinary. I never knew such large amount of data can be clustered in such an efficient way. I am hoping to learn more of this and implement my knowledge in the future. 
+
 Here is an example of a blog that explain and shows the K-means algorithm and clustering: https://www.r-statistics.com/2013/08/k-means-clustering-from-r-in-action/
+
+
 Focus
 If you were given the time and resources to build/learn anything you wanted during your internship, where would you choose to focus your efforts? Provide a brief description of how you would spend your time.
+
+
 Firstly, if I am part of the internship program then I will be part of the company. Therefore my main focus would be to learn and sharpen my skill set for myself but in a certain way where I can be beneficial to the company and provide them the best service possible as well. Moreover, by doing so not only I can gain professional experience and learn how a large company like Critical Mass functions but if opportunity comes I will be prepared to be part of a large company like this in the future. During my time as an intern I want to communicate with my colleagues share ideas and learn from them. Also I would like to gain knowledge from experienced developers who are working at the company and listen to their point of view in achieving success in my respective field. I would love to gain experience of working with a team in a professional environment and share my ideas and knowledge on the projects we will be working on. All in all, I want to learn both the technical and the professional part of being a developer for my own personal and professional growth but also help the company archive goals that they expect of me and provide them the best service possible during my time.
+
 
 Code Challenge
 Please fork the following CodePen pen, follow the instructions provided in the HTML editor comments, and do your best to complete the challenge. When you are finished, provide a link to your solution in your README.md file of your GitHub repository. Be prepared to walk through your solution and explain the rationale behind your solution.
