@@ -20,8 +20,14 @@ My role - I am working with another student from Saint Mays University and is su
 Github link - https://github.com/sabbirCoyg/Login-Register
 
 Inspiration
+
+
 Provide up to three examples of work that has recently inspired you from a technical perspective. These can be open source projects, CodePens, blog posts, etc. Be sure to include specifics on what you found inspiring.
+
+
 a) Spotify Using Angular 2: The instructor Brad Traversy is very inspiring and I love the way he teaches how to program. I have been studying full stack development for about a month now and has bought his full stack development package on Eduonix. And this model of Spotify made from MEAN stack is something that inspires me to learn Angular JS framework to the level where I can make an application like that myself in the future. Hoping to work hard enough to learn the ins and outs of this framework and the syntaxes used to develop front and back-end of apps in the future. So that I can create faster and better application and upgrade my skill set.
+
+
 Github link- https://github.com/bradtraversy/ngspotify
 
 b) Progress of Artificial Intelligence: I have recently being very interested in artificial intelligence and it inspires me every day thinking of all the possibilities it has to change the world. I have a dream to create  a mental health related App using AI in the future that can help people going with mental health issues but are scared to come out. An anonymous way to help people in need. It is still a long way to go for me in my dream and how I want to implement the App but I have some very specific ideas that I want to implement to achieve my success. But in the mean time I continue to read blog posts and articles related to AI to inspire me and fuel my dreams.
